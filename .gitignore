@@ -1,0 +1,9 @@
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
+
+# 빌드 결과물은 릴리즈로만 배포한다.
+/Tether.exe
+/release/
+
+# 실제 사용자 이름과 네트워크 이름이 찍힌 화면 캡처.
+/design/ui-preview*.png
